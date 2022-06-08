@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2A8949d7306eD2c0aDC9b1EB9270aDf739C30411",
+  "SCAN_LINK": "https://polygonscan.com/address/0x2A8949d7306eD2c0aDC9b1EB9270aDf739C30411",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Galactic Apepunks",
+  "SYMBOL": "GAPE",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/galacticapepunks",
+  "SHOW_BACKGROUND": true
+}
